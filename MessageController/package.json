@@ -1,0 +1,26 @@
+{
+  "name": "message-controller",
+  "version": "1.0.5",
+  "description": "Deliver Messages to your Beans ",
+  "main": "HandleMessage.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/4ddev/MessageController.git"
+  },
+  "keywords": [
+    "MessageController",
+    "Deliver",
+    "Classes",
+    "Functions"
+  ],
+  "author": "4DDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4ddev/MessageController/issues"
+  },
+  "homepage": "https://github.com/4ddev/MessageController#readme"
+}
